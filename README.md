@@ -3,7 +3,7 @@
 I take a vague idea and hand back a thing that works: designed, built, wired up, shipped.
 Fourteen years, one person, from the first sketch to the server it runs on.
 
-Independent creative engineer in Kraków, with an agency background in campaigns for brands in FMCG, finance and tech. These days: websites with a custom CMS the team actually runs, e-commerce, product configurators, mobile apps, internal tools, automations and AI integrations — and the systems that wire them together.
+Independent creative engineer in Kraków, Poland, with an agency background in campaigns for brands in FMCG, finance and tech. These days: websites with a custom CMS the team actually runs, e-commerce, product configurators, mobile apps, internal tools, automations and AI integrations — and the systems that wire them together.
 
 ### Selected work
 
